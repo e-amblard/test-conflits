@@ -5,7 +5,7 @@ public class MainTest {
 
 		String[] villes = {
 				"Limoges",
-				"Paris",
+				"Paris 2",
 				"Victoire 1+2",
 				"Vic-le-Comte",
 				"Saint-Vic",
