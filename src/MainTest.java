@@ -4,6 +4,7 @@ public class MainTest {
 	public static void main(String[] args) {
 
 		String[] villes = {
+				"Test",
 				"Limoges",
 				"Paris 1+2+3",
 				"Victoire 1+2+3",
