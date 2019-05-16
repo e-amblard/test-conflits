@@ -6,12 +6,9 @@ public class MainTest {
 		String[] villes = {
 				"Limoges",
 				"Paris",
-<<<<<<< HEAD
 				"Victoire",
-=======
 				"Vic-le-Comte",
 				"Saint-Vic",
->>>>>>> branch 'master' of https://github.com/e-amblard/test-conflits.git
 		};
 		
 		for ( String ville : villes ) {
