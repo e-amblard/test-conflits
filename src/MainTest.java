@@ -6,7 +6,7 @@ public class MainTest {
 		String[] villes = {
 				"Limoges",
 				"Paris",
-				"Vic",
+				"Saint-Vic",
 		};
 		
 		for ( String ville : villes ) {
