@@ -7,6 +7,7 @@ public class MainTest {
 				"Limoges",
 				"Paris",
 				"Vic-le-Comte",
+				"Saint-Vic",
 		};
 		
 		for ( String ville : villes ) {
